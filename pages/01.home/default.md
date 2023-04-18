@@ -5,7 +5,7 @@ body_classes: 'title-center title-h1h2'
 # Введение
 ## installation successful...
 
-![my image](image.jpg)
+![my image](devtree.png)
 
 Congratulations! You have installed the **Base Grav Package** that provides a **simple page** and the default **Quark** theme to get you started.
 
