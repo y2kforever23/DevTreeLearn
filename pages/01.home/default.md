@@ -6,7 +6,9 @@ body_classes: 'title-center title-h1h2'
 
 ![my image](devtree.png)
 
-Congratulations! You have installed the **Base Grav Package** that provides a **simple page** and the default **Quark** theme to get you started.
+DevTree — это среда управления базами данных для разработчиков. Он предназначен для запросов, создания и управления базами данных. Базы данных могут работать локально, на сервере или в облаке. Поддерживает  PostgreSQL. 
+
+
 
 !! If you see a **404 Error** when you click `Typography` in the menu, please refer to the [troubleshooting guide](http://learn.getgrav.org/troubleshooting/page-not-found).
 
