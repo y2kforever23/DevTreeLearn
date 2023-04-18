@@ -3,7 +3,6 @@ body_classes: 'title-center title-h1h2'
 ---
 
 # Введение
-## installation successful...
 
 ![my image](devtree.png)
 
